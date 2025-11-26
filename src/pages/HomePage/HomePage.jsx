@@ -2,7 +2,6 @@ import React, { useEffect } from "react";
 import ReactGA from "react-ga4"; // Імпорт із react-ga4
 import { useNavigate } from "react-router-dom";
 import "./HomePage.css";
-import imageInstagram from "../../assets/images/Instagram1.png";
 import imagelinkedin from "../../assets/images/linkedin1.png";
 import imageViber from "../../assets/images/viber.png";
 import imageMyPhoto from "../../assets/images/myphoto1.jpg";
@@ -44,7 +43,7 @@ const HomePage = () => {
           <div>
             <h1 className="text text-name">
               {/* текст привітання */}
-              {t("Ruslana.Hi! I'm Ruslana Matviienko")}
+              {t("Ruslana.Hi! I'm Ruslana Osovik")}
             </h1>
             <h2 className="text text-profession">Full Stack Developer</h2>
           </div>
@@ -67,18 +66,10 @@ const HomePage = () => {
             </div>
 
             <ul className="box-networks">
+             
               <li className="box-Imagecontact">
                 <a
-                  href="https://www.instagram.com/vychovanetcruslana/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img src={imageInstagram} alt="Instagram logo" />
-                </a>
-              </li>
-              <li className="box-Imagecontact">
-                <a
-                  href="https://www.linkedin.com/in/ruslana-matviienko/"
+                  href="https://www.linkedin.com/in/fullstack-developer-ruslana-osovik/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -87,7 +78,7 @@ const HomePage = () => {
               </li>
               <li className="box-Imagecontact">
                 <a
-                  href="viber://chat?number=0665166837"
+                  href="viber://chat?number=0663847849"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -106,7 +97,7 @@ const HomePage = () => {
             <img
               className="myPhoto"
               src={imageMyPhoto}
-              alt="Ruslana Matviienko"
+              alt="Ruslana Osovik"
               width="300"
             />
             <div className="skill-photo javascript">

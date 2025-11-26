@@ -1,8 +1,8 @@
 {
-  "name": "myportfolio",
+  "name": "RuslanaOsovik",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ruwiseturtle.github.io/ruslanaosovik/",
+  "homepage": "https://ruwiseturtle.github.io/RuslanaOsovik/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
     "@testing-library/jest-dom": "^5.17.0",
@@ -60,7 +60,6 @@
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "file-loader": "^6.2.0",
     "gh-pages": "^6.2.0",
-    "typescript": "^4.9.5",
     "url-loader": "^4.1.1"
   }
 }
