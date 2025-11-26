@@ -19,7 +19,7 @@ const Aboutme = () => {
               <img
                 className="myphoto2"
                 src={imageMyphoto2}
-                alt="Ruslana Matviienko"
+                alt="Ruslana Osovik"
               />
             </div>
           </div>
