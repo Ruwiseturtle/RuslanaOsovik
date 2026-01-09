@@ -19,7 +19,7 @@ ReactGA.initialize(trackingId);
 
 const HomePage = () => {
   const { t } = useTranslation();
-  
+
   // Відстеження перегляду сторінки з використанням react-ga4
   useEffect(() => {
     ReactGA.send({
@@ -34,8 +34,6 @@ const HomePage = () => {
     navigate("/Contact"); // Перенаправляє користувача на сторінку "Contacts"
   };
 
-  
-  
   return (
     <div className="container-homePage">
       <ul className="list-homepage">
@@ -66,10 +64,9 @@ const HomePage = () => {
             </div>
 
             <ul className="box-networks">
-             
               <li className="box-Imagecontact">
                 <a
-                  href="https://www.linkedin.com/in/fullstack-developer-ruslana-osovik/"
+                  href="https://www.linkedin.com/in/ruslanaosovik/"
                   target="_blank"
                   rel="noreferrer"
                 >
