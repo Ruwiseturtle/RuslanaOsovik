@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/RuslanaOsovik/static/css/main.1503326b.css",
-    "main.js": "/RuslanaOsovik/static/js/main.b8232f12.js",
+    "main.js": "/RuslanaOsovik/static/js/main.0756196e.js",
     "static/css/294.d6f9535e.chunk.css": "/RuslanaOsovik/static/css/294.d6f9535e.chunk.css",
-    "static/js/294.f3250324.chunk.js": "/RuslanaOsovik/static/js/294.f3250324.chunk.js",
+    "static/js/294.c0fce770.chunk.js": "/RuslanaOsovik/static/js/294.c0fce770.chunk.js",
     "static/css/563.cfd9638c.chunk.css": "/RuslanaOsovik/static/css/563.cfd9638c.chunk.css",
     "static/js/563.a062e5c0.chunk.js": "/RuslanaOsovik/static/js/563.a062e5c0.chunk.js",
     "static/css/561.3b288dc3.chunk.css": "/RuslanaOsovik/static/css/561.3b288dc3.chunk.css",
@@ -80,9 +80,9 @@
     "static/media/CircleFlagsUa.svg": "/RuslanaOsovik/static/media/CircleFlagsUa.73257fa220b7fbf80eb2f0881e9fc023.svg",
     "static/media/CircleFlagsPl.svg": "/RuslanaOsovik/static/media/CircleFlagsPl.0d5360bdd32ac326e59186d483113609.svg",
     "main.1503326b.css.map": "/RuslanaOsovik/static/css/main.1503326b.css.map",
-    "main.b8232f12.js.map": "/RuslanaOsovik/static/js/main.b8232f12.js.map",
+    "main.0756196e.js.map": "/RuslanaOsovik/static/js/main.0756196e.js.map",
     "294.d6f9535e.chunk.css.map": "/RuslanaOsovik/static/css/294.d6f9535e.chunk.css.map",
-    "294.f3250324.chunk.js.map": "/RuslanaOsovik/static/js/294.f3250324.chunk.js.map",
+    "294.c0fce770.chunk.js.map": "/RuslanaOsovik/static/js/294.c0fce770.chunk.js.map",
     "563.cfd9638c.chunk.css.map": "/RuslanaOsovik/static/css/563.cfd9638c.chunk.css.map",
     "563.a062e5c0.chunk.js.map": "/RuslanaOsovik/static/js/563.a062e5c0.chunk.js.map",
     "561.3b288dc3.chunk.css.map": "/RuslanaOsovik/static/css/561.3b288dc3.chunk.css.map",
@@ -116,6 +116,6 @@
   },
   "entrypoints": [
     "static/css/main.1503326b.css",
-    "static/js/main.b8232f12.js"
+    "static/js/main.0756196e.js"
   ]
 }
