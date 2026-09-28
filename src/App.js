@@ -2,7 +2,7 @@ import React, { lazy, useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { Routes, Route } from "react-router-dom";
 import Layout from "./components/Layout/Layout.jsx";
-// import { requestGetCurrentUser } from "./API/Auth/fetchRegisterUser.jsx";
+
 import { selectIsAuthenticated } from "./redux/auth/authSelectors.js";
 import { selectAuthSwitchToShow } from "./redux/auth/authSelectors.js";
 import isUserLoggedIn from "./helpers/isUserLoggedIn.js";
